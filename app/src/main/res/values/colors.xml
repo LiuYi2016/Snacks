@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="main_bottom_checked">#ffee1b39</color>
+    <color name="main_bottom_unchecked">#ff353535</color>
+    <color name="guide_point_solid">#ffff4444</color>
+    <color name="guide_point_solid_white">#ffffffff</color>
+</resources>
